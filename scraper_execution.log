@@ -1,0 +1,28 @@
+2026-09-16 20:35:16,351 - INFO - Attempting to scrape URL: https://www.imdb.com/chart/top/
+2026-09-16 20:35:16,351 - INFO - Initializing Chrome WebDriver via WebDriver Manager.
+2026-09-16 20:35:16,351 - INFO - ====== WebDriver manager ======
+2026-09-16 20:35:20,862 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache by browser version
+2026-09-16 20:35:49,324 - WARNING - Scraping attempt 1 failed with exception: Zero elements located. Retrying...
+2026-09-16 20:36:00,623 - WARNING - Scraping attempt 2 failed with exception: Zero elements located. Retrying...
+2026-09-16 20:36:09,907 - WARNING - Scraping attempt 3 failed with exception: Zero elements located. Retrying...
+2026-09-16 20:36:09,907 - ERROR - Max retries reached. Exiting scraping process.
+2026-09-16 20:36:15,664 - INFO - WebDriver closed safely.
+2026-09-16 20:39:42,899 - INFO - Attempting to scrape URL: https://www.imdb.com/chart/top/
+2026-09-16 20:39:42,899 - INFO - ====== WebDriver manager ======
+2026-09-16 20:39:45,803 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache by browser version
+2026-09-16 20:40:27,451 - WARNING - Scraping attempt 1 failed with exception: Message: 
+
+2026-09-16 20:40:43,809 - WARNING - Scraping attempt 2 failed with exception: Message: 
+
+2026-09-16 20:41:00,971 - WARNING - Scraping attempt 3 failed with exception: Message: 
+
+2026-09-16 20:41:00,971 - ERROR - Max retries reached. Exiting scraping process.
+2026-09-16 20:41:03,303 - INFO - WebDriver closed safely.
+2026-09-16 22:18:17,666 - INFO - Attempting to scrape URL: https://www.imdb.com/chart/top/
+2026-09-16 22:18:17,666 - INFO - ====== WebDriver manager ======
+2026-09-16 22:18:18,290 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache by browser version
+2026-09-16 22:18:38,389 - WARNING - Scraping attempt 1 failed with exception: Message: 
+
+2026-09-16 22:19:57,235 - INFO - Attempting to scrape URL: https://www.imdb.com/chart/top/
+2026-09-16 22:19:57,235 - INFO - ====== WebDriver manager ======
+2026-09-16 22:19:57,859 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache by browser version
