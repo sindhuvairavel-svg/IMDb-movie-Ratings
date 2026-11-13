@@ -165,7 +165,7 @@ st.markdown("""
 @st.cache_data
 def load_data():
     try:
-        df = pd.read_csv("imdb_movies.csv")
+        df = pd.read_csv("https://raw.githubusercontent.com/sindhuvairavel-svg/IMDb-movie-Ratings/refs/heads/main/imdb_movies.csv")
         df = df.loc[:, ~df.columns.str.contains("^Unnamed")]
         return df
     except FileNotFoundError:
